@@ -15,3 +15,6 @@ h1 {
 .doidi {
     margin: auto;
 }
+div {
+    display: inline-block;
+}
